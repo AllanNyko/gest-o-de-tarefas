@@ -3,10 +3,10 @@
 class Conexao
 {
 
-    private $host = "localhost";
-    private $dbname = "php_com_pdo";
-    private $user = "root";
-    private $password = "";
+    private $host = "****";
+    private $dbname = "*****";
+    private $user = "*****";
+    private $password = "***";
 
     public function conectar()
     {
